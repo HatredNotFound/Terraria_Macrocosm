@@ -834,6 +834,11 @@ IndustrialPlating: {
 	Tooltip: ""
 }
 
+IndustrialPlatingBroken: {
+	// DisplayName: Broken Industrial Plating
+	// Tooltip: ""
+}
+
 IndustrialPlatform: {
 	DisplayName: Индустриальная платформа
 	Tooltip: ""
@@ -3246,7 +3251,7 @@ AutocrafterT1: {
 		'''
 }
 
-AutocrafterT2Cobalt: {
+AutocrafterT2Mythril: {
 	DisplayName: Автосборщик, ур. 2
 	Tooltip:
 		'''
@@ -3255,7 +3260,7 @@ AutocrafterT2Cobalt: {
 		'''
 }
 
-AutocrafterT2Palladium: {
+AutocrafterT2Orichalcum: {
 	DisplayName: Автосборщик, ур. 2
 	Tooltip:
 		'''
@@ -3735,5 +3740,20 @@ HeveaWorkbench: {
 
 HeveaFence: {
 	DisplayName: Забор из каучуковой древесины
+	// Tooltip: ""
+}
+
+QuartzWall: {
+	// DisplayName: Quartz Wall
+	// Tooltip: ""
+}
+
+QuartzWallUnsafe: {
+	// DisplayName: Perilous Quartz Wall
+	// Tooltip: ""
+}
+
+Sunclot: {
+	// DisplayName: Sunclot
 	// Tooltip: ""
 }

@@ -834,6 +834,11 @@ IndustrialPlating: {
 	Tooltip: ""
 }
 
+IndustrialPlatingBroken: {
+	DisplayName: Broken Industrial Plating
+	Tooltip: ""
+}
+
 IndustrialPlatform: {
 	DisplayName: Industrial Platform
 	Tooltip: ""
@@ -3274,7 +3279,7 @@ AutocrafterT1: {
 		'''
 }
 
-AutocrafterT2Cobalt: {
+AutocrafterT2Mythril: {
 	DisplayName: Tier 2 Assembler
 	Tooltip:
 		'''
@@ -3283,7 +3288,7 @@ AutocrafterT2Cobalt: {
 		'''
 }
 
-AutocrafterT2Palladium: {
+AutocrafterT2Orichalcum: {
 	DisplayName: Tier 2 Assembler
 	Tooltip:
 		'''
@@ -3763,5 +3768,20 @@ HeveaWorkbench: {
 
 HeveaFence: {
 	DisplayName: Hevea Fence
+	Tooltip: ""
+}
+
+QuartzWall: {
+	DisplayName: Quartz Wall
+	Tooltip: ""
+}
+
+QuartzWallUnsafe: {
+	DisplayName: Perilous Quartz Wall
+	Tooltip: ""
+}
+
+Sunclot: {
+	DisplayName: Sunclot
 	Tooltip: ""
 }
